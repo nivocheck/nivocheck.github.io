@@ -62186,7 +62186,7 @@ gKj(){return u.m},
 gKk(){return"\u041a\u0430\u0442\u0430\u0439\u0442\u0435\u0441\u044c \u043f\u043e \u0441\u043a\u043b\u043e\u043d\u0430\u043c \u043f\u043e\u043b\u043e\u0436\u0435 30 \u0433\u0440\u0430\u0434\u0443\u0441\u043e\u0432."},
 gLy(){return u.B},
 gHx(){return"\u0447\u0438\u0441\u043b\u043e\u0432\u043e\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435(\u043f\u043e \u043c\u0435\u0442\u043e\u0434\u0443 \u0440\u0435\u0434\u0443\u043a\u0446\u0438\u0438): "},
-GM(a,b,c,d){return"Method author: "+a+"\nAdapted by: "+b+"\nProgrammed by: "+c+"\nPictures of danger levels: "+d},
+GM(a,b,c,d,e){return"Method author: "+a+"\nAdapted by: "+b+"\nAvalanche expert: "+c+"\nProgrammed by: "+d+"\nPictures of danger levels: "+e},
 gGs(){return"About"}}
 A.Ba.prototype={
 gJR(){return"\u041f\u0435\u0440\u0432\u043e\u0435 \u0432\u043f\u0435\u0447\u0430\u0442\u043b\u0435\u043d\u0438\u0435 / \u041e\u0431\u0449\u0438\u0439 \u0432\u0438\u0434"},
@@ -62254,7 +62254,7 @@ gKj(){return u.m},
 gKk(){return"\u041a\u0430\u0442\u0430\u0439\u0442\u0435\u0441\u044c \u043f\u043e \u0441\u043a\u043b\u043e\u043d\u0430\u043c \u043f\u043e\u043b\u043e\u0436\u0435 30 \u0433\u0440\u0430\u0434\u0443\u0441\u043e\u0432."},
 gLy(){return u.B},
 gHx(){return"\u0447\u0438\u0441\u043b\u043e\u0432\u043e\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435(\u043f\u043e \u043c\u0435\u0442\u043e\u0434\u0443 \u0440\u0435\u0434\u0443\u043a\u0446\u0438\u0438): "},
-GM(a,b,c,d){return"\u0410\u0432\u0442\u043e\u0440 \u043c\u0435\u0442\u043e\u0434\u0430: "+a+"\n\u0410\u0432\u0442\u043e\u0440 \u0430\u0434\u0430\u043f\u0442\u0430\u0446\u0438\u0438: "+b+"\n\u0410\u0432\u0442\u043e\u0440 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b: "+c+"\n\u0413\u0440\u0430\u0444\u0438\u043a\u0430 \u0443\u0440\u043e\u0432\u043d\u0435\u0439 \u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438: "+d},
+GM(a,b,c,d,e){return"\u0410\u0432\u0442\u043e\u0440 \u043c\u0435\u0442\u043e\u0434\u0430: "+a+"\n\u0410\u0432\u0442\u043e\u0440 \u0430\u0434\u0430\u043f\u0442\u0430\u0446\u0438\u0438: "+b+"\n\u041b\u0430\u0432\u0438\u043d\u043d\u044b\u0439 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442: "+c+"\n\u0410\u0432\u0442\u043e\u0440 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b: "+d+"\n\u0413\u0440\u0430\u0444\u0438\u043a\u0430 \u0443\u0440\u043e\u0432\u043d\u0435\u0439 \u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438: "+e},
 gGs(){return"\u041e \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0435"}}
 A.Fe.prototype={$iK:1}
 A.NJ.prototype={
@@ -64399,7 +64399,7 @@ E(a,b){var s=null
 return A.ZE(A.a([A.ajJ(A.akL(B.Hx,new A.a3E(b),!1,s,A.bG(A.af(b,B.n,t.J).gGs(),s,s,s,s,s)),s,s,s,s,s)],t.D),s,s,!1)}}
 A.a3E.prototype={
 $0(){var s=this.a
-return A.aD5(B.k_,A.af(s,B.n,t.J).GM("Werner Munter","Kyrgyzstan Mountain Guides Assosiation (KMGA)","Andrey Maier","Land Tirol - data.tirol.gv.at "),"Nivocheck","0.01",s)},
+return A.aD5(B.k_,A.af(s,B.n,t.J).GM("Werner Munter","Kyrgyzstan Mountain Guides Assosiation (KMGA)","Petr Sedukhin","Andrey Maier","Land Tirol - data.tirol.gv.at "),"Nivocheck","0.01",s)},
 $S:0}
 A.ik.prototype={}
 A.B_.prototype={
