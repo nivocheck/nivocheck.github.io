@@ -71042,7 +71042,7 @@ gAj(){return"With good tour planning and skillful route selection, most of the c
 Ak(a){return"Extreme slopes (40\xb0 or more) without traces in the "+a+" sector"},
 gAl(){return"northern"},
 gAm(){return"southern"},
-An(a){return" ({hemisphereSector}) should be avoided (restrictions!). Following this recommendation, the likelihood of triggering an avalanche is "},
+An(a){return" ("+a+") should be avoided (restrictions!). Following this recommendation, the likelihood of triggering an avalanche is "},
 gAo(){return"minimal"},
 gAp(){return"."},
 gAE(){return"Level III - CONSIDERABLE"},
@@ -74524,7 +74524,7 @@ s.d.$0()},
 $S:7}
 A.a9n.prototype={
 $0(){var s=this.b
-return A.aIh(B.Lc,"Nivocheck","1.2.9",this.a.a_p(s),s)},
+return A.aIh(B.Lc,"Nivocheck","1.3.0",this.a.a_p(s),s)},
 $S:0}
 A.oc.prototype={
 ai(){return new A.Uf(B.k)},
