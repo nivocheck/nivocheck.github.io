@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "fe33946a1079dc94d770d6c94bb8f285",
-"index.html": "0cbc6af41c2423e2758c5b080cb0c34b",
-"/": "0cbc6af41c2423e2758c5b080cb0c34b",
-"main.dart.js": "31479a54f430c2606753471c23a974d9",
+  "version.json": "9ff20d3c008d9eb5121608a21be576f8",
+"index.html": "d789882ff708467fba77876c7b8c949f",
+"/": "d789882ff708467fba77876c7b8c949f",
+"main.dart.js": "f66966172787b126c93c6763232e6607",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "favicon.png": "14268a0a8033940154ad3f8ec6586f28",
 "icons/Icon-192.png": "6e600f5d4278c97f793cafad4c674f06",
@@ -14,6 +14,7 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "c67a4239b7d29ea3ba7a8741327721ef",
 "icons/Icon-512.png": "c67a4239b7d29ea3ba7a8741327721ef",
 "manifest.json": "315669feb1b6325b274eb75986b198b7",
+"assets/images/icon.png": "315169d334ce108e76dfc0f47f7cfab8",
 "assets/images/danger_level/1.5x/rating-considerable.png": "321297fd2996a4addf0065c6f3e11392",
 "assets/images/danger_level/1.5x/rating-low.png": "176edb57341638e83e8705f8e647b201",
 "assets/images/danger_level/1.5x/rating-no.png": "8a2fd9cb77bc73349d39606bec4d2b5d",
@@ -39,8 +40,8 @@ const RESOURCES = {
 "assets/images/danger_level/4.0x/rating-moderate.png": "721b453433aa9d7b3d1764554888a68e",
 "assets/images/danger_level/4.0x/rating-high.png": "08e9010749c2d51d33aa8615686b342b",
 "assets/images/danger_level/rating-high.png": "b10efe3736e64b7a69fe4d28db26fbab",
-"assets/AssetManifest.json": "9a81375bc4b70dffe3097371eba9679a",
-"assets/NOTICES": "6e6a9caef97adb922f1c3911ff207079",
+"assets/AssetManifest.json": "047da0e12344a99ac171fa9e7484b217",
+"assets/NOTICES": "dc6ba04bf78206fca60516ac454dcd83",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
